@@ -1,48 +1,46 @@
 locations:
-  - address: "East Gates Mall"
-    city: "Trincity"
-    island: "Trinidad"
+  - address: East Gates Mall
+    city: Trincity
+    island: Trinidad
     latlon: [10.633399,-61.346954]
-    phone: "18682352695"
-    whatsapp: "18682352695"
+    phone: 18682352695
+    whatsapp: 18682352695
     subcategories: []
     orderingtables: []
-    delivery:
     opening_hours:
-      mode: "Auto"
+      mode: Auto
       sun:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       mon:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       tue:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       wed:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       thu:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       fri:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
+        - type: Close
+          time: "00:00"
       sat:
-        - type: "Open"
+        - type: Open
           time: "11:00"
-        - type: "Close"
-          time: "22:00"
-
+        - type: Close
+          time: "00:00"

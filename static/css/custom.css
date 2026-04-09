@@ -1,15 +1,32 @@
-#orderModal .image {
-    max-height: initial !important;
+:root {
+  --background-color: #e5b9a6;
+  --site-paper-texture: url("/images/the-alley/menu-cover-texture.png");
 }
-#orderModal .image img {
-    max-height: initial !important;
+
+.main-body {
+  background-color: var(--main-bg);
+  background-image:
+    linear-gradient(
+      180deg,
+      rgba(229, 185, 166, 0.92) 0%,
+      rgba(229, 185, 166, 0.85) 45%,
+      rgba(217, 180, 167, 0.82) 100%
+    ),
+    var(--site-paper-texture);
+  background-size: auto, cover;
+  background-position: center, center;
+  background-attachment: scroll, fixed;
+  background-repeat: no-repeat, no-repeat;
 }
-.menu tr th {
-    font-size: large !important;
+
+body .hero_logo_container::before {
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.2) 0%,
+    rgba(0, 0, 0, 0.09) 45%,
+    rgba(0, 0, 0, 0.04) 72%,
+    transparent 100%
+  ) !important;
 }
-.singlepageimages img {
-    height:initial !important;
-}
-#askforserver {
-   display: none;
-}
+
+
