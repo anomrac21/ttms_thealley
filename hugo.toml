@@ -90,7 +90,7 @@ baseURL = 'https://thealley.ttmenus.com/'
     phone = 18682352695
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 49
     notifications = true
 
 [params.social]
