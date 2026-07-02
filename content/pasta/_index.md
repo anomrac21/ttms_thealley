@@ -1,7 +1,9 @@
 ---
 title: Pasta
 weight: 40
-icon: https://ct.ttmenus.com/icons/food/icon-pasta.webp
+icon: images/pasta.webp
+images:
+    primary: images/pasta.webp
 ---
 
 Fettuccine classics. Add chicken, shrimp, or salmon.

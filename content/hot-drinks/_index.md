@@ -1,7 +1,9 @@
 ---
 title: Hot Drinks
 weight: 53
-icon: https://ct.ttmenus.com/icons/food/icon-coffee.webp
+icon: images/hot-drinks.webp
+images:
+    primary: images/hot-drinks.webp
 ---
 
 Coffee and tea.

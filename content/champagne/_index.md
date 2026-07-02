@@ -1,7 +1,9 @@
 ---
 title: Champagne
 weight: 51
-icon: https://ct.ttmenus.com/icons/food/icon-champagne.webp
+icon: images/champagne.webp
+images:
+    primary: images/champagne.webp
 ---
 
 Premium bottles.

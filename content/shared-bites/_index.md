@@ -1,7 +1,9 @@
 ---
 title: Shared Bites
 weight: 10
-icon: https://ct.ttmenus.com/icons/food/icon-wing.webp
+icon: images/shared-bites.webp
+images:
+    primary: images/shared-bites.webp
 ---
 
 Appetizers and plates to share.

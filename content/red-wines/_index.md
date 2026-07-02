@@ -1,7 +1,9 @@
 ---
 title: Red Wines
 weight: 49
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
+icon: images/red-wines.webp
+images:
+    primary: images/red-wines.webp
 ---
 
 By the bottle or glass.

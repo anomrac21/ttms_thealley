@@ -1,7 +1,9 @@
 ---
 title: Signature Cocktails
 weight: 43
-icon: https://ct.ttmenus.com/icons/food/icon-sigcocktails.webp
+icon: images/signature-cocktails.webp
+images:
+    primary: images/signature-cocktails.webp
 ---
 
 House originals at The Alley at East Gates.

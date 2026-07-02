@@ -1,0 +1,26 @@
+Section photos (Pexels License — free to use):
+- hero.webp — Pexels #769289
+- promotions.webp — Pexels #2233348
+- shared-bites.webp — Pexels #2338407
+- sides.webp — Pexels #410648
+- salads.webp — Pexels #1128678
+- twelve-inch-pizzas.webp — Pexels #2147491
+- sandwiches.webp — Pexels #1630757
+- entrees.webp — Pexels #618785
+- pasta.webp — Pexels #2097090
+- kids-menu.webp — Pexels #699953
+- desserts.webp — Pexels #2089718
+- signature-cocktails.webp — Pexels #1267325
+- classic-cocktails.webp — Pexels #274192
+- mocktails.webp — Pexels #1267325
+- beers.webp — Pexels #1304540
+- white-wines.webp — Pexels #1283219
+- rose-wines.webp — Pexels #1283219
+- red-wines.webp — Pexels #1283219
+- prosecco-sparkling.webp — Pexels #1283219
+- champagne.webp — Pexels #1283219
+- soft-drinks.webp — Pexels #1199957
+- hot-drinks.webp — Pexels #302899
+- slideshow-burger.webp — Pexels #769289
+- slideshow-pizza.webp — Pexels #2147491
+- slideshow-wings.webp — Pexels #2338407

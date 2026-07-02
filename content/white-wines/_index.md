@@ -1,7 +1,9 @@
 ---
 title: White Wines
 weight: 47
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
+icon: images/white-wines.webp
+images:
+    primary: images/white-wines.webp
 ---
 
 By the bottle or glass.

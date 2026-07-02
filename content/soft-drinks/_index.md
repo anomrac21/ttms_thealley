@@ -1,7 +1,9 @@
 ---
 title: Soft Drinks
 weight: 52
-icon: https://ct.ttmenus.com/icons/food/icon-can.webp
+icon: images/soft-drinks.webp
+images:
+    primary: images/soft-drinks.webp
 ---
 
 Water, juice, and sodas.

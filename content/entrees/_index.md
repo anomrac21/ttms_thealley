@@ -1,7 +1,9 @@
 ---
 title: Entrées
 weight: 31
-icon: https://ct.ttmenus.com/icons/food/icon-platter.webp
+icon: images/entrees.webp
+images:
+    primary: images/entrees.webp
 ---
 
 Mains from the grill and stove.

@@ -1,7 +1,9 @@
 ---
 title: Rosé Wines
 weight: 48
-icon: https://ct.ttmenus.com/icons/food/icon-wine.webp
+icon: images/rose-wines.webp
+images:
+    primary: images/rose-wines.webp
 ---
 
 By the bottle or glass.

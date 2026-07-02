@@ -1,0 +1,5 @@
+# The Alley at East Gates: black fill, peach border
+
+fill: "#000000"
+border: "#e5b9a6"
+border_width: 2

@@ -1,7 +1,9 @@
 ---
 title: Salads
 weight: 20
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/salads.webp
+images:
+    primary: images/salads.webp
 ---
 
 Fresh salads. Add grilled chicken, shrimp, or salmon.
